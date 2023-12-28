@@ -1,0 +1,15 @@
+{
+  "name": "web3auth",
+  "version": "0.0.1",
+  "description": "Scaffolding tool to get started with Web3Auth",
+  "main": "index.js",
+  "bin": {
+    "web3auth": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mohammad Shahbaz Alam",
+  "license": "ISC"
+}

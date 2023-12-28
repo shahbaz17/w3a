@@ -1,5 +1,5 @@
 {
-  "name": "web3auth",
+  "name": "w3a",
   "version": "0.0.1",
   "description": "Scaffolding tool to get started with Web3Auth",
   "main": "index.js",

@@ -1,11 +1,13 @@
-# npx web3auth
+# npx w3a
+
+Web3Auth Scaffolding tool for quick starts.
 
 ## Installation
 
 To use this tool, you can install it globally using the following command:
 
 ```bash
-npm install -g web3auth
+npm install -g w3a
 ```
 
 ## Usage
@@ -13,7 +15,7 @@ npm install -g web3auth
 Run the command with the desired parameters:
 
 ```bash
-npx-web3auth [x] [y] [z]
+npx w3a [x] [y] [z]
 ```
 
 - x can be either "pnp" or "core-kit"
@@ -23,7 +25,7 @@ npx-web3auth [x] [y] [z]
 For example:
 
 ```bash
-npx-web3auth pnp modal react
+npx w3a pnp modal react
 ```
 
 This will download the specified project template to a folder of your choice.
